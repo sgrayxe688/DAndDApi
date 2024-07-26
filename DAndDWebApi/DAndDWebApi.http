@@ -1,0 +1,6 @@
+@DAndDWebApi_HostAddress = http://localhost:5288
+
+GET {{DAndDWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
